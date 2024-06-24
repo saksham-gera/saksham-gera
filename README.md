@@ -3,11 +3,11 @@
 <h3 align="center">Aspiring Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saksham-gera&label=Profile%20views&color=0e75b6&style=flat" alt="saksham-gera" /> </p>
-
+<p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saksham-gera&show_icons=true&locale=en&layout=compact" alt="saksham-gera" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saksham-gera&show_icons=true&locale=en" alt="saksham-gera" /></p>
-
+</p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
 
 - 🔭 I’m currently working on [MicVick](https://micvick.com)
