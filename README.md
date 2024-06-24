@@ -12,19 +12,19 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://sakshamgera.vercel.app](sakshamgera.vercel.app)
+- 👨‍💻 All of my projects are available at [sakshamgera.vercel.app](https://sakshamgera.vercel.app)
 
 - 💬 Ask me about **ReactJS, Flutter, NextJS, NodeJS, Firebase, PostgreSQL, MongoDB**
 
 - 📫 How to reach me **saksham.gera@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1oI0vKx3mgtKDRTc0FDiCZSQweDiMUBdM/view?usp=sharing](Resume)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1oI0vKx3mgtKDRTc0FDiCZSQweDiMUBdM/view?usp=sharing)
 
 <h3 align="left">Here are some of my notable repositories:</h3>
-- [https://github.com/saksham-gera/leaseposh-website](leaseposh-website) - The official website for LeasePosh, built with JavaScript,React,MongoDB,NodeJS,JWT,Tailwind And Integrated Razorpay for payment And Order Booking.
-- [https://github.com/saksham-gera/strinja](Strinja) - Another JavaScript project.
-- [https://github.com/saksham-gera/svnit-achievement-portal](SVNIT Achievement Portal) - Achievement portal for SVNIT, built with JavaScript.
-- [https://github.com/saksham-gera/JustWander](JustWander) - Another interesting project built with JavaScript.
+- [leaseposh-website](https://github.com/saksham-gera/leaseposh-website) - The official website for LeasePosh, built with JavaScript.
+- [strinja](https://github.com/saksham-gera/strinja) - Another JavaScript project.
+- [svnit-achievement-portal](https://github.com/saksham-gera/svnit-achievement-portal) - Achievement portal for SVNIT, built with JavaScript.
+- [JustWander](https://github.com/saksham-gera/JustWander) - Another interesting project built with JavaScript.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
