@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [https://sakshamgera.vercel.app](https://sakshamgera.vercel.app)
+- 👨‍💻 All of my projects are available at [https://sakshamgera.vercel.app](sakshamgera.vercel.app)
 
 - 💬 Ask me about **ReactJS, Flutter, NextJS, NodeJS, Firebase, PostgreSQL, MongoDB**
 
