@@ -3,9 +3,9 @@
 <h3 align="center">Aspiring Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saksham-gera&label=Profile%20views&color=0e75b6&style=flat" alt="saksham-gera" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saksham-gera" alt="saksham-gera" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saksham-gera" alt="saksham-gera" /></a> </p>
+
 - 🔭 I’m currently working on [MicVick](https://micvick.com)
 
 - 🌱 I’m currently learning **Machine Learning Specialization**
