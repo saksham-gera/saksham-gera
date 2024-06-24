@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saksham-gera&label=Profile%20views&color=0e75b6&style=flat" alt="saksham-gera" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saksham-gera" alt="saksham-gera" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saksham-gera" alt="saksham-gera"/></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
 
@@ -23,11 +23,12 @@
 - 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1oI0vKx3mgtKDRTc0FDiCZSQweDiMUBdM/view?usp=sharing)
 
 <h3 align="left">Here are some of my notable repositories:</h3>
+<p>
 - [leaseposh-website](https://github.com/saksham-gera/leaseposh-website) - The official website for LeasePosh, built with JavaScript.
 - [strinja](https://github.com/saksham-gera/strinja) - Another JavaScript project.
 - [svnit-achievement-portal](https://github.com/saksham-gera/svnit-achievement-portal) - Achievement portal for SVNIT, built with JavaScript.
 - [JustWander](https://github.com/saksham-gera/JustWander) - Another interesting project built with JavaScript.
-
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/saksham-gera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saksham-gera" height="30" width="40" /></a>
