@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **saksham.gera@outlook.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1oI0vKx3mgtKDRTc0FDiCZSQweDiMUBdM/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1mbwCVfygsFb2o8JX7o8E9W028D6LgA6U/view?usp=sharing)
 
 <h3 align="left">Here are some of my notable repositories:</h3>
 
