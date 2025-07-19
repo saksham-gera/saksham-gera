@@ -10,24 +10,24 @@
 </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"></img>
 
-- 🔭 I’m currently working on [MicVick](https://micvick.com)
+- 🔭 I’m currently working on [Control-Core Project](https://github.com/ControlCore-Project)
 
 - 🌱 I’m currently learning **Machine Learning Specialization**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 👨‍💻 All of my projects are available at [sakshamgera.vercel.app](https://sakshamgera.vercel.app)
+- 👨‍💻 All of my projects are available at [saksham.fluxus.org](saksham.fluxus.org)
 
 - 💬 Ask me about **ReactJS, Flutter, NextJS, NodeJS, Firebase, PostgreSQL, MongoDB**
 
 - 📫 How to reach me **saksham.gera@outlook.com**
 
-- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1mbwCVfygsFb2o8JX7o8E9W028D6LgA6U/view?usp=sharing)
+- 📄 Know about my experiences [Resume Link](https://drive.google.com/file/d/1yziidtdYCC5949tDIdC01Gx8RoZtOci-/view?usp=drive_link)
 
 <h3 align="left">Here are some of my notable repositories:</h3>
 
 - [leaseposh-website](https://github.com/saksham-gera/leaseposh-website) - The official website for LeasePosh, built with React, MongoDB, NodeJS, ExpressJS, Tailwind-CSS, JWT, Razorpay Payment Gateway.
-- [DesignWithSpark](https://github.com/saksham-gera/DesignWithSpark) - A Complete Solution For AI 3D T-Shirt Customization System Using Gemini API And Open AI's DALL-E API, And Integrated Editor For Extended Customizability.
+- [MyTee3D](https://github.com/saksham-gera/MyTee3D) - A Complete Solution For AI 3D T-Shirt Customization System Using Gemini API And Open AI's DALL-E API, And Integrated Editor For Extended Customizability.
 - [SAS-FatToSlim](https://github.com/saksham-gera/SAS-FatToSlim) - A Customised User Website & Admin Portal For A Real World Business In Which We Integrated Statistics, Whatsapp Integration, Users Management For Admins.
 - [LeasePosh App](https://github.com/saksham-gera/LeasePosh) - A Rental Wear E-Commerce App Based On Flutter, NodeJS, MongoDB, JWT, ExpressJS.
 
